@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    margin: 50px;
+}
+
+h1, h3 {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    size: 200px; 
+}
+.button {
+    display: flex;
+    justify-content: center;
+    
+}
+li {
+    display: list-item; 
+    color: azure;
+}
+input, button {
+    margin: 7px;
+    color: rgb(255, 208, 0);
+}
